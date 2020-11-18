@@ -9,4 +9,5 @@ public class SharedData : MonoSingleton<SharedData>
     public Texture cellTickedTexture;
     public Texture cellClearTexture;
     public GridData data;
+    public int maxGridCountForSafety;
 }

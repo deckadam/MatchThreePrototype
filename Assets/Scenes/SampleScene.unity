@@ -1060,6 +1060,7 @@ MonoBehaviour:
   cellTickedTexture: {fileID: 2800000, guid: 57aab232977679f4288a43503b96d283, type: 3}
   cellClearTexture: {fileID: 2800000, guid: 6863d63a3bb805747bd89bbcdebde7b1, type: 3}
   data: {fileID: 11400000, guid: c031ac1fb98c3684fb86d6d4b1fcf65f, type: 2}
+  maxGridCountForSafety: 99
 --- !u!1 &1484952698
 GameObject:
   m_ObjectHideFlags: 0

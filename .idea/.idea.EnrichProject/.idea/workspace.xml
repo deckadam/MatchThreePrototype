@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bd08a9c-58d0-4da9-b433-80af0fd77c9c" name="Default Changelist" comment="" />
+    <list default="true" id="0bd08a9c-58d0-4da9-b433-80af0fd77c9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EnrichProject/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnrichProject/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EnrichProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnrichProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ReGeneration/ReGenerationInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ReGeneration/ReGenerationInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SharedData/SharedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SharedData/SharedData.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,14 +28,14 @@
         <option value="$PROJECT_DIR$/Assets/GridGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Grid/GridGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Score/ScoreDisplayer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Input/InputHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Grid/GridData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/SharedData/SharedData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Grid/GridCellGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Grid/GridCell.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Logic/MatchChecker.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ReGeneration/ReGenerationInput.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Grid/GridMaster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Input/InputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SharedData/SharedData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ReGeneration/ReGenerationInput.cs" />
       </list>
     </option>
   </component>
@@ -85,6 +90,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="430" y="184" key="SettingsEditor/0.0.1858.1080/52.-1080.1920.1080@0.0.1858.1080" timestamp="1605650694820" />
+    <state x="607" y="273" width="644" height="534" key="find.popup" timestamp="1605652706570">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="607" y="273" width="644" height="534" key="find.popup/0.0.1858.1080/52.-1080.1920.1080@0.0.1858.1080" timestamp="1605652706570" />
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1605651466520">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>

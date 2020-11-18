@@ -15,6 +15,10 @@ public class ReGenerationInput : MonoBehaviour
     {
         var newData = _inputField.text;
         int.TryParse(newData, out var result);
+
+        result = Mathf.Clamp(result, 1, SharedData.ins.maxGridCountForSafety);
+        _inputField.text = result.ToString();
+
         SharedData.ins.data.SetValue(result);
     }
 }
